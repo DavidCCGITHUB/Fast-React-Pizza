@@ -9,7 +9,7 @@ Built with **Vite**, **Redux**, **TailwindCSS**, and the [BigDataCloud API](http
 
 ## Live Demo
 
-This web app was deployed on vercel, it can be tried in here -> [Fast-React-Pizza](https://eat-n-split-psi-gold.vercel.app/)
+This web app was deployed on vercel, it can be tried in here -> [Fast-React-Pizza](https://fast-react-pizza-phi-eight.vercel.app/)
 
 ## Preview
 
