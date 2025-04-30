@@ -1,5 +1,6 @@
-import eslint from 'vite-plugin-eslint';
+import { defineConfig } from 'vite';
+import react from '@vitejs/plugin-react';
 
-export default {
-  plugins: [process.env.NODE_ENV !== 'production' && eslint()].filter(Boolean),
-};
+export default defineConfig({
+  plugins: [react()],
+});
